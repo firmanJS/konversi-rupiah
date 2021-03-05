@@ -1,0 +1,26 @@
+{
+  "name": "konversi-rupiah",
+  "version": "1.0.0",
+  "description": "module untuk konversi angka ke format rupiah",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firmanJS/konversi-rupiah.git"
+  },
+  "keywords": [
+    "nodejs",
+    "konversi",
+    "angka",
+    "ke",
+    "rupiah"
+  ],
+  "author": "firmanjs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/firmanJS/konversi-rupiah/issues"
+  },
+  "homepage": "https://github.com/firmanJS/konversi-rupiah#readme"
+}
