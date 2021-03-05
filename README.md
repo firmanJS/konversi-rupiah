@@ -2,7 +2,8 @@
 
 ## Intro
 
-Sebagai bahan pembelajara untuk artikel di medium module konversi number ke format rupiah
+Sebagai bahan pembelajaran untuk artikel di medium JDS Engineering 
+module konversi number ke format rupiah
 
 
 ## Instalasi
